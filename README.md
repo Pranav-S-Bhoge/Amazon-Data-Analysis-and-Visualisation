@@ -20,6 +20,7 @@ enterprise.Find for me insights in India.
 
 ##📉 Dashboard
 
+![Dashboard 1](https://github.com/Pranav-S-Bhoge/Amazon-Data-Analysis-and-Visualisation-using-Tableau/assets/155958759/9ace6beb-b6f5-4e02-bc75-7c925dfc43ca)
 
 
 
