@@ -20,5 +20,6 @@ enterprise.Find for me insights in India.
 
 ##📉 Dashboard
 
-![image](https://github.com/Pranav-S-Bhoge/Amazon-Data-Analysis-and-Visualisation-using-Tableau/assets/155958759/6f610f6e-e2be-4ff2-898f-c815975f680b)
+![Dashboard 1](https://github.com/Pranav-S-Bhoge/Amazon-Data-Analysis-and-Visualisation-using-Tableau/assets/155958759/7babb6d2-b2a0-471f-86d0-8039a40f2984)
+
 
