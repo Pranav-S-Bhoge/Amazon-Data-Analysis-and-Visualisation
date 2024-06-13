@@ -12,7 +12,7 @@
 
 ##📉 Dashboard
 
-![Dashboard](https://github.com/Pranav-S-Bhoge/Amazon-Data-Analysis-and-Visualisation-using-Tableau/assets/155958759/46ed3658-6e36-47d2-b016-79845b9b1703)
+![Dashboard](https://github.com/Pranav-S-Bhoge/Amazon-Data-Analysis-and-Visualisation/blob/main/Overview%20Dashboard.jpg)
 
 
 
